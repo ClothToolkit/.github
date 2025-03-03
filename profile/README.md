@@ -11,3 +11,5 @@
 ## 🦅 A Project by Venoxity Development  
 At **[Venoxity Development](https://github.com/VenoxityDevelopment)**, we follow the principle:  
 *"Vigilance Unleashed, Where the Hawk's Gaze Never Wavers."*  
+
+We are committed to innovation, precision, and delivering high-quality software solutions. ClothToolkit represents our dedication to improving the GTA V modding experience.  
