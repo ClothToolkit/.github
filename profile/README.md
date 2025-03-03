@@ -1,15 +1,21 @@
-# ClothToolkit
+# [ClothToolkit](https://github.com/ClothToolkit)  
 
-🚀 **ClothToolkit** is an official project under **[Venoxity Development](https://github.com/Venoxity-Development)**, focused on providing powerful tools for managing and modifying GTA V clothing assets.  
+Welcome to **ClothToolkit**, an official project under **[Venoxity Development](https://github.com/Venoxity-Development)**. We provide innovative tools and solutions for managing and modifying GTA V clothing assets.  
 
-## ✨ About ClothToolkit  
-*Placeholder for the about section. Provide a brief overview of the tool, its purpose, and key features.*  
+## ✨ About Us  
+**ClothToolkit** is part of the **Venoxity Development** family, focusing on delivering high-quality, user-friendly tools that help modders and developers manage in-game clothing assets with precision and ease.  
 
-### 🛠 Our Tool 
-*Placeholder for the tool section. Describe the main tool, its functionalities, and how it helps users. Include any important links or instructions.*  
+## 🔧 Our Tool  
+**ClothToolkit** is our primary tool for managing and modifying GTA V clothing assets.  
 
 ## 🦅 A Project by Venoxity Development  
-At **[Venoxity Development](https://github.com/VenoxityDevelopment)**, we follow the principle:  
+At **[Venoxity Development](https://github.com/Venoxity-Development)**, we are dedicated to delivering innovative solutions that push the boundaries of what's possible. Our motto is:  
 *"Vigilance Unleashed, Where the Hawk's Gaze Never Wavers."*  
 
-We are committed to innovation, precision, and delivering high-quality software solutions. ClothToolkit represents our dedication to improving the GTA V modding experience.  
+## 🔧 Contributions  
+We welcome contributions to the **ClothToolkit** project!  
+If you'd like to contribute, please refer to our [contributing guidelines](https://github.com/ClothToolkit/.github/blob/main/.github/CONTRIBUTING.md).  
+
+---
+
+Feel free to reach out to us for any inquiries or collaboration opportunities!  
