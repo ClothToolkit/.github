@@ -1,25 +1,11 @@
-# ClothToolkit's GitHub Organization!
+# ClothToolkit
 
-**ClothToolkit**
+Hi there!
 
-## Quick Links
+---
 
-- ### [🌍 Website](https://clothtoolkit.venoxity.dev): The official ClothToolkit website.
+## Disclaimer
 
-## Repositories
+ClothToolkit is not affiliated with Rockstar Games, Rockstar North, or Take-Two Interactive Software Inc.
 
-### Clients
-
-Here are clients being maintained under ClothToolkit's organization:
-
-| Repository                                                             | 
-| ---------------------------------------------------------------------- | 
-| [for-desktop](https://github.com/ClothToolkit/for-desktop) 
-
-### Everything Else
-
-Here is a list of important repositories and who is managing each.
-
-| Repository                                                              | 
-| ----------------------------------------------------------------------- | 
-| [clothtoolkit.venoxity.dev](https://github.com/ClothToolkit/clothtoolkit.venoxity.dev)               
+Grand Theft Auto V and related trademarks belong to their respective owners.
