@@ -1,5 +1,7 @@
 # ClothToolkit
 
+A development ecosystem for building GTA V clothing packs, tattoos, and outfit addons.
+
 Focused on simplifying workflow for FiveM, alt:V, RageMP, and singleplayer creators.
 
 ## Disclaimer
