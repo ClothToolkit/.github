@@ -1,9 +1,3 @@
-# ClothToolkit
-
-Hi there!
-
----
-
 ## Disclaimer
 
 ClothToolkit is not affiliated with Rockstar Games, Rockstar North, or Take-Two Interactive Software Inc.
